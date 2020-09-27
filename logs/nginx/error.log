@@ -1,0 +1,5 @@
+2020/09/26 20:39:27 [error] 9164#7764: *1 directory index of "C:\Users\ThinkPad E15\AppData\Roaming\Local\run\oSEZco2z3\nginx//" is forbidden, client: 127.0.0.1, server: , request: "GET /?cache-buster=1175 HTTP/1.0", host: "bedrock.local"
+2020/09/26 20:39:34 [error] 9164#7764: *3 directory index of "C:\Users\ThinkPad E15\AppData\Roaming\Local\run\oSEZco2z3\nginx//" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", host: "bedrock.local"
+2020/09/26 20:39:35 [error] 9164#7764: *5 directory index of "C:\Users\ThinkPad E15\AppData\Roaming\Local\run\oSEZco2z3\nginx//" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", host: "bedrock.local"
+2020/09/26 20:44:23 [error] 15884#14540: *1 directory index of "C:\Users\ThinkPad E15\AppData\Roaming\Local\run\oSEZco2z3\nginx//" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", host: "bedrock.local"
+2020/09/26 20:44:24 [error] 15884#14540: *3 directory index of "C:\Users\ThinkPad E15\AppData\Roaming\Local\run\oSEZco2z3\nginx//" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.0", host: "bedrock.local"
